@@ -1,1 +1,1 @@
-# https://esm.sh/preact
+# Use https://esm.sh/preact
